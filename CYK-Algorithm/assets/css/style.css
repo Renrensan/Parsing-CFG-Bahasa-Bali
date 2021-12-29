@@ -1,0 +1,16 @@
+.parent{
+    min-height: 100vh;
+    background-color: gold;
+}
+.sentence{
+    min-width: 500px;
+    min-height: 50px;
+}
+.fieldcontainer{
+    background-color: white;
+    height: 14rem;
+    max-width:40rem ;
+}
+.section2{
+    margin-top: 50rem;
+}
